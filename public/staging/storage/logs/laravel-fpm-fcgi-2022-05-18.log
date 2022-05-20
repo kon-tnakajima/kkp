@@ -1,0 +1,15 @@
+[2022-05-18 20:13:22] local.DEBUG: url.intendedに${$intended}を設定しました  
+[2022-05-18 20:13:22] local.DEBUG: ## vendorフォルダの内部を修正した処理が動いています  
+[2022-05-18 20:13:22] local.DEBUG: ## vendor\laravelramework\src\Illuminate\Auth\TokenGuard.php  
+[2022-05-18 20:13:22] local.DEBUG: ## リクエストから取得したトークンをハッシュ化して認証処理に引き渡します。  
+[2022-05-18 20:13:22] local.DEBUG: SQL {"time":"34.81 ms","sql":"select * from users where api_token = c3ae5faeb84e6ca77548316ed3a8e2a46016f2f903efc10e81950388e8ac3d83 and users.deleted_at is null limit 1"} 
+[2022-05-18 20:15:59] local.DEBUG: url.intendedに${$intended}を設定しました  
+[2022-05-18 20:15:59] local.DEBUG: ## vendorフォルダの内部を修正した処理が動いています  
+[2022-05-18 20:15:59] local.DEBUG: ## vendor\laravelramework\src\Illuminate\Auth\TokenGuard.php  
+[2022-05-18 20:15:59] local.DEBUG: ## リクエストから取得したトークンをハッシュ化して認証処理に引き渡します。  
+[2022-05-18 20:15:59] local.DEBUG: SQL {"time":"16.86 ms","sql":"select * from users where api_token = 5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5 and users.deleted_at is null limit 1"} 
+[2022-05-18 20:21:10] local.DEBUG: url.intendedに${$intended}を設定しました  
+[2022-05-18 20:21:10] local.DEBUG: ## vendorフォルダの内部を修正した処理が動いています  
+[2022-05-18 20:21:10] local.DEBUG: ## vendor\laravelramework\src\Illuminate\Auth\TokenGuard.php  
+[2022-05-18 20:21:10] local.DEBUG: ## リクエストから取得したトークンをハッシュ化して認証処理に引き渡します。  
+[2022-05-18 20:21:10] local.DEBUG: SQL {"time":"18.47 ms","sql":"select * from users where api_token = 5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5 and users.deleted_at is null limit 1"} 
